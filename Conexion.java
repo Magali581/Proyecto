@@ -6,7 +6,7 @@ public class Conexion {
 
 
 	private static String usuario = "root"; private static String password = "Magali2003...";
-	private static String url = "jdbc:mysql://localhost:3306/imc";
+	private static String url = "";
 	public static Connection conectar() { Connection conn = null;
 	try {
 	Class.forName("com.mysql.jdbc.Driver");
