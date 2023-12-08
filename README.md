@@ -40,6 +40,9 @@ Versión de Java: 20.0.2
 Pasos para ejecutar pruebas manualmente.
 Iniciar el servidor y la base de datos
 
+Esta aplicacion está compuesta por dos opciones, que son ver la lista de productos o añadir un producto a esa lista, se deben ingresar los datos que se piden en los recuadros y si el producto se añade correctamente se mostrará la lista actualizada, si no se mostrará un mensaje de error. Despues de añadir un producto existe la opcion de añadir otro producto y si se está añadiendo un producto pero se requiere consultar la tabla tambien existe la opcion de consultar la tabla desde la pagina de añadir producto.
+
+
 En el futuro se implementaran requerimientos que vuelvan la aplicacion mas funcional para el negocio, como eliminar un productos, registrar cada venta y que el invenario baja disminuyendo, calcular costos y ganancias.
 
 
